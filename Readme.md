@@ -5,7 +5,7 @@ Hi! In this project, I will guide you to train face mask classifier and use it o
 ![Test](Outputs/output-video.gif)
 
 ### Steps
-I will follow 2 steps;
+I will follow 3 steps;
 #### 1. Prepate Data
 #### 2. Train Model
 #### 3. Process Video or Image with Trained Model
