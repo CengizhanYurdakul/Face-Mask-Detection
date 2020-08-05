@@ -1,4 +1,4 @@
-# Expression Classification via PyTorch!
+# Face Mask Detection!
 
 Hi! In this project, I will guide you to train face mask classifier and use it on image, video or webcam in PyTorch.
 
